@@ -1,0 +1,91 @@
+At 03-29 19:50:44 the following fleets met in battle::
+
+Attacker Hassel Hoff ([1:280:5])
+Weapons: 100% Shields: 90% Armour: 90%
+Type	Battleship	Battlecr.
+Total	54	31
+Weapons	2.000	1.400
+Shields	380	760
+Armour	11.400	13.300
+
+Defender Ipswich ([1:279:10])
+Weapons: 90% Shields: 90% Armour: 80%
+Type	L.Cargo	L.Fighter	H.Fighter	Cruiser	Battleship	Recy.	Esp.Probe	R.Launcher	L.Laser	H.Laser	Gauss	Ion C.	S.Dome	L.Dome
+Total	20	1	1	3	5	1	3	78	23	9	1	5	1	1
+Weapons	10	95	285	760	1.900	2	0	152	190	475	2.090	285	2	2
+Shields	48	19	48	95	380	19	0	38	48	190	380	950	3.800	19.000
+Armour	2.160	720	1.800	4.860	10.800	2.880	180	360	360	1.440	6.300	1.440	3.600	18.000
+
+The attacking fleet fires 92 times with a total firepower of 161.200 at the defender. The defending shields absorb 13.094 damage
+In total, the defending fleet fires 152 times with a total firepower of 36.359 at the attacker. The attackers shields absorb 22.083 damage
+
+Attacker Hassel Hoff ([1:280:5])
+Type	Battleship	Battlecr.
+Total	54	31
+Weapons	2.000	1.400
+Shields	380	760
+Armour	11.400	13.300
+
+Defender Ipswich ([1:279:10])
+Type	L.Cargo	L.Fighter	H.Fighter	Cruiser	Battleship	Recy.	Esp.Probe	R.Launcher	L.Laser	H.Laser	Gauss	Ion C.	S.Dome	L.Dome
+Total	10	1	1	3	5	1	2	47	11	5	1	3	1	1
+Weapons	10	95	285	760	1.900	2	0	152	190	475	2.090	285	2	2
+Shields	48	19	48	95	380	19	0	38	48	190	380	950	3.800	19.000
+Armour	2.160	720	1.800	4.860	10.800	2.880	180	360	360	1.440	6.300	1.440	3.600	18.000
+
+The attacking fleet fires 91 times with a total firepower of 159.800 at the defender. The defending shields absorb 11.780 damage
+In total, the defending fleet fires 92 times with a total firepower of 26.807 at the attacker. The attackers shields absorb 15.961 damage
+
+Attacker Hassel Hoff ([1:280:5])
+Type	Battleship	Battlecr.
+Total	54	31
+Weapons	2.000	1.400
+Shields	380	760
+Armour	11.400	13.300
+
+Defender Ipswich ([1:279:10])
+Type	L.Cargo	L.Fighter	Cruiser	Battleship	Esp.Probe	R.Launcher	L.Laser	H.Laser	Gauss	Ion C.	L.Dome
+Total	4	1	2	3	1	21	3	2	1	1	1
+Weapons	10	95	760	1.900	0	152	190	475	2.090	285	2
+Shields	48	19	95	380	0	38	48	190	380	950	19.000
+Armour	2.160	720	4.860	10.800	180	360	360	1.440	6.300	1.440	18.000
+
+The attacking fleet fires 95 times with a total firepower of 165.400 at the defender. The defending shields absorb 6.108 damage
+In total, the defending fleet fires 40 times with a total firepower of 14.439 at the attacker. The attackers shields absorb 7.819 damage
+
+Attacker Hassel Hoff ([1:280:5])
+Type	Battleship	Battlecr.
+Total	54	31
+Weapons	2.000	1.400
+Shields	380	760
+Armour	11.400	13.300
+
+Defender Ipswich ([1:279:10])
+Type	Battleship	R.Launcher	L.Laser	L.Dome
+Total	2	1	1	1
+Weapons	1.900	152	190	2
+Shields	380	38	48	19.000
+Armour	10.800	360	360	18.000
+
+The attacking fleet fires 109 times with a total firepower of 185.000 at the defender. The defending shields absorb 20.746 damage
+In total, the defending fleet fires 5 times with a total firepower of 4.143 at the attacker. The attackers shields absorb 1.483 damage
+
+Attacker Hassel Hoff ([1:280:5])
+Type	Battleship	Battlecr.
+Total	54	31
+Weapons	2.000	1.400
+Shields	380	760
+Armour	11.400	13.300
+
+Defender Ipswich ([1:279:10])
+destroyed
+
+The attacker has won the battle!
+He captured
+42.437 metal, 42.437 crystal, and 19.375 deuterium
+
+
+The attacker lost a total of 0 units.
+The defender lost a total of 1.123.000 units.
+At these space coordinates now float 127.200 metal and 69.000 crystal.
+The chance for a moon to be created is 1 %
