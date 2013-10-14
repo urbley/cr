@@ -16,7 +16,7 @@ class Report {
 	{
 		$this->cr = $cr;
 	}
-
+	// oh look a change
 	public function getAttacker()
 	{
 		// This ensures that there is only 1 attacker object created per report
