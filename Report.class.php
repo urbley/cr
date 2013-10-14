@@ -4,8 +4,6 @@ include( "Battle.class.php" );
 include( "Attacker.class.php" );
 include( "Defender.class.php" );
 
-
-// Just a small change
 class Report {
 
 	private $attacker;
@@ -16,7 +14,7 @@ class Report {
 	{
 		$this->cr = $cr;
 	}
-	// oh look a change
+	
 	public function getAttacker()
 	{
 		// This ensures that there is only 1 attacker object created per report
