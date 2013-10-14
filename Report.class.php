@@ -4,6 +4,8 @@ include( "Battle.class.php" );
 include( "Attacker.class.php" );
 include( "Defender.class.php" );
 
+
+// Just a small change
 class Report {
 
 	private $attacker;
